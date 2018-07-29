@@ -1,0 +1,12 @@
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\bin\Debug\Synth.dll
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\bin\Debug\Synth.pdb
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\obj\Debug\Synth.csprojAssemblyReference.cache
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\obj\Debug\Synth.csproj.CoreCompileInputs.cache
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\obj\Debug\Synth.dll
+D:\anonymous\Documents\Programming\C Sharp\BlindFps\Synth\obj\Debug\Synth.pdb
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\bin\Debug\Synth.dll
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\bin\Debug\Synth.pdb
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\obj\Debug\Synth.csprojAssemblyReference.cache
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\obj\Debug\Synth.csproj.CoreCompileInputs.cache
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\obj\Debug\Synth.dll
+D:\anonymous\Documents\Programming\C Sharp\Synth\Synth\obj\Debug\Synth.pdb
